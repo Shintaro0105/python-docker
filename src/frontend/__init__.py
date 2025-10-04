@@ -1,1 +1,1 @@
-"""Frontend package for the Streamlit demo app."""
+"""Black-Scholes option pricing frontend Streamlit application."""
